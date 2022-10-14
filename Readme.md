@@ -6,3 +6,6 @@ https://www.radix-ui.com/colors
 
 https://www.figma.com/file/8uHwooLZKwVzpS9HonkVBT/Ignite-Lab-Design-System?node-id=5%3A63
 
+run: npm ci --legacy-peer-deps
+
+https://transform.tools/
